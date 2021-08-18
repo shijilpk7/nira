@@ -1,6 +1,6 @@
 # nira
 
-A new Flutter project.
+Simple game.
 
 ## Getting Started
 
